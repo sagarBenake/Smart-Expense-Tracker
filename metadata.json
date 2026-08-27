@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An intelligent Android personal expense tracker with automatic Indian SMS detection, custom category rules, offline-first Room database, Google Sheets sync, budgets, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
